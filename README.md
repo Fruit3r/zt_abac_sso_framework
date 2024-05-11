@@ -1,4 +1,4 @@
-# Zero Trust Single-Sign-On Framework for a Smart City Environment
+# Zero Trust Single-Sign-On Framework using Attribute-Based Access Control (IoT Environment)
 
 ## Running the System
 ### Overview
