@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Poppins';
+    src: url("./assets/fonts/poppins/Poppins_Regular.woff2") format('woff2');
+}
+
+
+.cstm-shadow {
+    @apply shadow-[0_1px_5px_0_rgba(0,0,0,0.2)];
+}

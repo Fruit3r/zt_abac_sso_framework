@@ -1,0 +1,2 @@
+// Create user
+curl -X POST  http://localhost:9000/administrate/users/create -H 'Content-Type: application/json' -d '{"username":"createuser", "password":"1324321", "email":"testemail@test.com", "blocked":"false", "attributes":""}'

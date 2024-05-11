@@ -1,0 +1,22 @@
+{
+    "sensors": [
+        {
+            "port": 7000,
+            "object_attributes": {
+                "test": "test"
+            },
+            "action_attributes": {
+                "test2": 2
+            }
+        },
+        {
+            "port": 7001,
+            "object_attributes": {
+                "test": "test"
+            },
+            "action_attributes": {
+                "test2": 3
+            }
+        }
+    ]
+}
